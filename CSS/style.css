@@ -1,0 +1,109 @@
+@import "components/centerlogo.css";
+@import "components/button.css";
+@import "components/navbar.css";
+
+body {
+	margin: 35px 35px 0px 35px;
+	background-image: url('images/cafe-cup.jpg');
+	background-size: cover;
+}
+
+header{
+	margin: 20px;
+	height: 50px;
+}
+
+h1 {
+	font-family: 'Redressed', sans-serif;
+	font-size: 45px;
+	color: #FFCB47;
+	font-display: block;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 25px;
+	color: #F4F5F5;
+}
+
+h2 {
+	font-family: 'Anton', sans-serif;
+}
+
+.footer-basic {
+	color: darkblue;
+	padding: 40px 100px;
+	width: 1000px;
+	text-align: center;
+}
+
+.footer-basic ul {
+	padding: 0 ;
+	list-style: none;
+	text-align: center;
+	font-size: 24px;
+	line-height: 1.6;
+	margin-bottom: 0;
+}
+
+.footer-basic li {
+	padding: 0 30px;
+}
+
+.footer-basic ul a{
+	color: inherit;
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+.footer-basic ul a:hover{
+	opacity: 1;
+}
+
+.footer-basic .social{
+	text-align: center;
+	padding-bottom: 25px;
+	letter-spacing: 15px;
+	margin-left: 100px;
+}
+
+.social > a{
+	font-size: 30px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	display: inline-block;
+	text-align: center;
+	border-radius: 50%;
+	border-radius: 1px solid gery;
+	margin: 0 8px;
+	color: grey;
+	opacity: 0.75;
+}
+
+.container-textcenter{
+	max-width: 750px;
+	display: flex;
+	padding: 10px 10px 10px 10px;
+	vertical-align: baseline;
+	text-align: center;
+	margin-left: 50px;
+}
+
+.container-items{
+	color: #FFCB47;
+	text-decoration: none;
+	list-style: none;
+	font-family: 'Redressed',sans-serif;
+	font-size: 35px;
+} 
+
+.copyright{
+	margin-top: 15px;
+	text-align: center;
+	margin-bottom: 0;
+	margin-left: 80px;
+	color: black;
+	font-weight: bold;
+	font-size: 15px;
+}

@@ -1,0 +1,28 @@
+.row{
+	margin-top: 30px;
+	display: table;
+	text-align: center;
+	padding: 20px;
+	margin-left: 160px;
+	width: 800px;
+	height: 500px;
+	background-color: grey;
+	border-radius: 20%;
+	opacity: 0.75;
+
+}
+
+.col-lg-8-wrapper{
+	padding-left: 15px;
+	padding-right: 15px;
+	height: 250px;
+	position: relative;
+}
+
+.col-lg-4-textbox{
+	margin-top: 10px;
+	margin-bottom: 25px;
+	padding-top: 30px;
+	text-align: center;
+}
+

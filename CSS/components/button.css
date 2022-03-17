@@ -1,0 +1,11 @@
+.btn-lg{
+	background-color: #FFCB47;;
+	color: white;
+	width: 300px;
+	border: solid;
+}
+
+.btn-lg:hover{
+	background-color: blue;
+	color: white;
+}

@@ -1,0 +1,16 @@
+.navbar{
+	border: solid;
+	padding: 10px 10px 10px 10px;
+	margin-bottom: -20px;
+	margin-left: 800px;
+	width: 450px;
+	list-style: none;
+}
+
+.menu-items{
+	padding-left: 20px;
+	color:  #F4F5F5;
+	display: flex;
+	text-decoration: none;
+	font-family: 'Anton', sans-serif;
+}
