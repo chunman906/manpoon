@@ -14,3 +14,8 @@
 	text-decoration: none;
 	font-family: 'Anton', sans-serif;
 }
+
+.menu-items:hover{
+	text-decoration: none;
+	color: #FFCB47;;
+}
